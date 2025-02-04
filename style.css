@@ -9,7 +9,7 @@ body{
     height: 700px;
     width: 100%;
     /* background-color: greenyellow; */
-    background-image: url(top1.jpg);
+    background-image: url(/images/top1.jpg);
     background-size: cover;
 }
 .logo{
@@ -19,7 +19,7 @@ body{
     position: absolute;
     top: 5px;
     left: 180px;
-    background-image: url(Netflix.png);
+    background-image: url(/images/Netflix.png);
     background-size: cover;
 }
 .lang{
@@ -174,7 +174,7 @@ body{
     margin-left: 800px;
     margin-top: 60px;
     /* background-color: grey; */
-    background-image: url(Tv.png);
+    background-image: url(/images/Tv.png);
     background-size: cover;
 }
 #pushpa{
@@ -229,7 +229,7 @@ body{
     margin-left: 230px;
     margin-top: 23px;
     /* background-color: grey; */
-    background-image: url(mobile2.png);
+    background-image: url(/images/mobile2.png);
     background-size: cover;
     z-index: 1;
 }
@@ -263,14 +263,14 @@ body{
     position: absolute;
     margin-left: 250px;
     border-radius: 10px;
-    background-image: url(dwnld.gif);
+    background-image: url(/images/dwnld.gif);
     background-size: cover;
 }
 .mob{
     height: 180px;
     width: 100px;
     /* background-color: grey; */
-    background-image: url(mobile2.png);
+    background-image: url(/images/mobile2.png);
     background-size: cover;
     position: absolute;
     margin-left: 765px;
@@ -285,7 +285,7 @@ body{
     height: 218px;
     width: 130px;
     /* background-color: grey; */
-    background-image: url(mobile2.png);
+    background-image: url(/images/mobile2.png);
     background-size: cover;
     position: absolute;
     margin-left: 1200px;
@@ -303,7 +303,7 @@ body{
     margin-left: 120px;
     margin-top: 50px;
     /* background-color: grey; */
-    background-image: url(cartoon.png);
+    background-image: url(/images/cartoon.png);
     background-size: cover;
 }
 #ques{
